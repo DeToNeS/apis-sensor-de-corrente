@@ -12,6 +12,11 @@ Programas utilizados
 - Vagrant "Ubuntu 14.04"
 - PHP 5
 
+Bibliotecas
+- U8Glib 1.19.1, https://github.com/olikraus/u8glib
+- EmonLib, https://github.com/openenergymonitor/EmonLib
+- swDuino, http://www.swduino.com/?tab=library
+
 Equipamentos e componentes
 - Arduino Uno 
 - Sensor de corrente SCT-013 ( 100A -:50mA )
